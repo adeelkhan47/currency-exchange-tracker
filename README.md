@@ -163,4 +163,3 @@ If yesterday's rate is unavailable, the rate change is calculated as:
   }
 ]
 ```
-# currency-exchange-tracker
