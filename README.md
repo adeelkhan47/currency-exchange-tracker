@@ -163,3 +163,9 @@ If yesterday's rate is unavailable, the rate change is calculated as:
   }
 ]
 ```
+
+# Screenshots :
+<img width="1334" alt="Screenshot 2024-12-13 at 3 27 40 AM" src="https://github.com/user-attachments/assets/5b9b3de9-563b-4328-948f-c8cd392919a3" />
+<img width="1640" alt="Screenshot 2024-12-13 at 3 27 20 AM" src="https://github.com/user-attachments/assets/c98ba17b-5e8d-42d7-885f-f27991b7d48b" />
+<img width="1678" alt="Screenshot 2024-12-13 at 3 26 49 AM" src="https://github.com/user-attachments/assets/e03ed908-6766-4a4d-bcd6-9a797974bfb2" />
+
